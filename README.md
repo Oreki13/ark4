@@ -1,5 +1,4 @@
-Nama = Muhammad Arfandy Surya Nugraha
-Tempat, tanggal lahir = Malang, 28 Januari 2001
+Nama = Muhammad Arfandy Surya Nugraha <br>Tempat, tanggal lahir = Malang, 28 Januari 2001
 
 
 Saya menjawab pertanyaan dari nomor 1,2, 4 dan 7 menggunakan php
