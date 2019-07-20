@@ -3,12 +3,12 @@ Nama = Muhammad Arfandy Surya Nugraha <br>Tempat, tanggal lahir = Malang, 28 Jan
 
 Saya menjawab pertanyaan dari nomor 1,2, 4 dan 7 menggunakan php
 
-1. Kegunaan json pada Rest Api adalah sebagai penerima respon dari rest server yang di ubah menjadi Json agar dimingerti oleh mesin dan manusia.
+1. Kegunaan json pada Rest Api adalah sebagai penghantar respon dari rest server yang di ubah menjadi Json agar dimingerti oleh mesin dan manusia.
 
 7. untuk nomor 7 saya menggunakan CI dan Bootstrap
    Untuk Melihat hasil dapat menuju ke http://oreki-san.web.id/ark/
    
-   - untuk soal nomor 7c hanya bisa menjalankan created karena kehabisan waktu
+   - untuk soal nomor 7c hanya bisa menjalankan created
    
 ## Screenshots
 ### Homepage<br>
