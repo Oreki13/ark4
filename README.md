@@ -1,3 +1,7 @@
+Nama = Muhammad Arfandy Surya Nugraha
+Tempat, tanggal lahir = Malang, 28 Januari 2001
+
+
 Saya menjawab pertanyaan dari nomor 1,2, 4 dan 7 menggunakan php
 
 1. Kegunaan json pada Rest Api adalah sebagai penerima respon dari rest server yang di ubah menjadi Json agar dimingerti oleh mesin dan manusia.
